@@ -9,3 +9,8 @@ fun main() {
         SchemaUtils.create(ArtistTable, AlbumTable)
     }
 }
+// this should create the database.
+// ./kotlin run -m query
+// logging in thr terminal too see executed sql.
+// ./kotlin run -m create 
+// For jintell idea
